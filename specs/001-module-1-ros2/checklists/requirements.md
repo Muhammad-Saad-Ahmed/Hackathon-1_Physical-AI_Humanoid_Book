@@ -2,7 +2,7 @@
 
 **Purpose**: Validate specification completeness and quality before proceeding to planning
 **Created**: 2025-12-07
-**Feature**: [specs/001-module-1-ros2/spec.md](spec.md)
+**Feature**: [specs/001-module-1-ros2/spec.md](../spec.md)
 
 ## Content Quality
 

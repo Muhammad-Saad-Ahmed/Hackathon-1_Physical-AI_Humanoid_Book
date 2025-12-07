@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx('button button--primary button--lg', styles.ctaButton, styles.ctaButtonPrimary)}
-            to="/docs/01-intro-to-ros2/01-what-is-ros2">
+            to="/docs/intro-to-ros2/what-is-ros2">
             Start Learning
           </Link>
           <Link

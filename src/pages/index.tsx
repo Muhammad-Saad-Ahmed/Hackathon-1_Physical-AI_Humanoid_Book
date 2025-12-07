@@ -23,7 +23,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className={clsx('button button--secondary button--lg', styles.ctaButton, styles.ctaButtonSecondary)}
-            href="https://github.com/your-repo/physical-ai-book">
+            href="https://github.com/Muhammad-Saad-Ahmed/Hackathon-1_Physical-AI_Humanoid_Book">
             View GitHub
           </Link>
         </div>

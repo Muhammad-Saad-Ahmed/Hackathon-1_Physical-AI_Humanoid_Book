@@ -46,21 +46,6 @@ const config: Config = {
           editUrl:
             'https://github.com/Muhammad-Saad-Ahmed/Hackathon-1_Physical-AI_Humanoid_Book/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Muhammad-Saad-Ahmed/Hackathon-1_Physical-AI_Humanoid_Book/tree/main/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -104,11 +89,6 @@ const config: Config = {
               label: 'Tutorial',
               to: '/docs/intro-to-ros2/what-is-ros2',
             },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
           ],
         },
         {
